@@ -1,0 +1,163 @@
+{
+  "main": {
+    "name": "Alan Grinberg",
+    "occupation": "Software Engineer",
+    "description": "I love making connections happen between people, people, and technology, and improving our daily lives through the usage of software and data science. Most of my work has involved Java, Python, and React/Redux for web applications. Passionate about clean and modern UI design, as well as potential uses of CS in the areas of personal health and wellness.",
+    "image": "profilepic.jpg",
+    "bio": "Welcome to my page! I'm an aspiring software engineer taking big ideas and breaking them down into accessible chunks. My current personal project, working with Node, React, and MongoDB to create an easier way for students to collaborate on projects, and most recently an Android application with my fellow grad students allowed me to really dig deep into Java fundamentals and mobile development. Past work has included being a graduate TA for Fundamentals of Software Engineering, working with a music startup on their mobile app, and getting the local DemocracyLab project/website up and running.",
+    "contactmessage": "Feel free to reach out to me via social media or email!",
+    "email": "grinningdev@gmail.com",
+    "phone": "415-819-5722",
+    "address": {
+      "city": "Seattle",
+      "state": "Washington",
+      "zip": "98105"
+    },
+    "website": "https://www.alangrinberg.net",
+    "resumedownload": "https://alangrinberg.net",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/alagrin",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/grinberg_alan",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/alan-grinberg/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/alagrin",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/alagrin",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My journey into tech began from studying the internals of computers and mobile devices all the way to a graduate program in CS. I've been working on web applications with particular focus in React and Redux, as well as diving into the backend with Java and Python. Current focus includes the business logic and working on APIs to hone in on back end development.",
+    "education": [
+      {
+        "school": "Northeastern University",
+        "degree": "M.S. Computer Science",
+        "graduated": "August 2020",
+        "description": "Graduate of the Align Program as part of a career switch from sales to software development as well as graduate TA/ tutor."
+      },
+      {
+        "school": "UC Santa Cruz",
+        "degree": "B.S. MCD Biology",
+        "graduated": "June 2014",
+        "description": "Focused on key processes of the body and genetics including lab-work; Dean's List 2X"
+      }
+    ],
+    "work": [
+      {
+        "company": "DreamBox Learning",
+        "title": "Software Engineer Intern",
+        "years": "June 2019 - August 2019",
+        "description": "Built and enhanced existing tests for the internal component library by deploying automated and regression testing to boost web application reliability. Also, collaborated with internal dev teams to fix 20+% of bugs in production prior to software release"
+      },
+      {
+        "company": "Full Circle Insights",
+        "title": "Technical Account Manager",
+        "years": "November 2015 - November 2017",
+        "description": "Led online training for new accounts and the platform onboarding process in collaboration with Client Success and devs. Managed training and mentored 5 SDR’s and incoming Account Executives through onboarding and technical processes"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "React",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "Angular",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "70%"
+      },
+      {
+        "name": "MySQL",
+        "level": "70%"
+      },
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name": "Python",
+        "level": "90%"
+      },
+      {
+        "name": "AWS",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Covid Assistant",
+        "category": "Patient and Provider communication tool",
+        "image": "covid_app.png",
+        "url": "https://patient-provider-portal.herokuapp.com/"
+      },
+      {
+        "title": "Sonobyte",
+        "category": "A music journal Android application - link is internal testing opt in link for Play Store",
+        "image": "sonobyte.png",
+        "url": "https://play.google.com/apps/internaltest/4699437098214993187"
+      },
+      {
+        "title": "Trivia Game",
+        "category": "A React based trivia app - play solo or vs computer",
+        "image": "trivia.png",
+        "url": "https://pages.github.ccs.neu.edu/cs7580sp20-seattle/alagrin92_trivia/"
+      },
+      {
+        "title": "Project Matcher",
+        "category": "(In Progress repo) A React / Node based interest-based project matching tool.",
+        "image": "image-placeholder.jpg",
+        "url": "https://github.com/alagrin/project-matcher"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I found Alan to be a strong customer advocate and engineer with both excellent technical and collaboration skills... His positive, can-do attitude made him a pleasure to work with!",
+        "user": "Ken D."
+      },
+      {
+        "text": "We worked together at a hackathon where we won 2nd place. Despite the very limited time we had in our hands, Alan’s understanding of Java as well as APIs/SDKs came in handy, as well as his quick thinking skills to push us through to the finish line",
+        "user": "Fellow Hackathon team member"
+      }
+    ]
+  }
+}
